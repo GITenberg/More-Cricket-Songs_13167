@@ -1,0 +1,27 @@
+_repo: More-Cricket-Songs_13167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gale, Norman
+    alias: Gale, Norman R. (Norman Rowland)
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '4877'
+    url: http://www.gutenberg.org/2009/agents/4877
+description: ''
+gutenberg_issued: '2004-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Cricket -- Poetry'
+title: More Cricket Songs
+url: http://www.gutenberg.org/ebooks/13167
